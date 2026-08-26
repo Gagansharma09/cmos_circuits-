@@ -1,4 +1,4 @@
-# Custom VLSI Portfolio — Digital Track
+# Custom VLSI — Digital IC design 
 
 A progressive, from-scratch VLSI design portfolio built around one reused digital
 datapath rather than a set of unrelated circuits. Each block is verified on its
