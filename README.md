@@ -1,6 +1,6 @@
 # Digital IC Design (EE5311) Winter 2025
 
-This repository contains the project submissions for the course **EE5311: Digital IC Design** instructed by **Prof. Ram Prasath** in the July-Nov 2025 semester at **IIT Madras**. Brief description of each project below - 
+This repository contains the project submissions for the course **EE5311: Digital IC Design****IIT Madras**. Brief description of each project below - 
 
 - **Assignment 1** – Simulation of nMOS transfer characteristics and region of operation analysis.
 - **Assignment 2** – MOSFET output characteristics, velocity saturation analysis, and comparison of analytical and simulated models.
